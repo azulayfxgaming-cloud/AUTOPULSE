@@ -20,7 +20,7 @@ AUTOPULSE can open a selected file, application, or website automatically using 
 
 ### Download
 
-When a Windows installer is published, download **AUTOPULSE-Setup.exe** from the [AUTOPULSE VERSIONS]([(https://www.mediafire.com/file/wqi31bpyfqijyop/AUTOPULSE.exe/file)]).
+When a Windows installer is published, download **AUTOPULSE-Setup.exe** from (https://www.mediafire.com/file/wqi31bpyfqijyop/AUTOPULSE.exe/file)
 
 ### Build from source
 
